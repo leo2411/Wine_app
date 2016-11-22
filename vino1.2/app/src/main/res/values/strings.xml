@@ -1,0 +1,160 @@
+<resources>
+    <string name="app_name">Vinale</string>
+
+
+    // B I J E L A    V I N A
+
+
+    <string-array name="InfoB">
+       <item>@string/Bogdanuša_info</item>
+        <item>@string/Cetinka_info</item>
+        <item>@string/Debit_info</item>
+        <item>@string/Graševina_info</item>
+        <item>@string/Grk_info</item>
+        <item>@string/Jarbola_info</item>
+        <item>@string/Žlahtina_info</item>
+
+    </string-array>
+
+
+    <string-array name="SvojstvaB">
+        <item>@string/Bogdanuša_svojstva</item>
+        <item>@string/Cetinka_svojstva</item>
+        <item>@string/Debit_svojstva</item>
+        <item>@string/Graševina_svojstva</item>
+        <item>@string/Grk_svojstva</item>
+        <item>@string/Jarbola_svojstva</item>
+        <item>@string/Žlahtina_svojstva</item>
+    </string-array>
+
+    <string-array name="SljubB">
+        <item>@string/Bogdanuša_sljub</item>
+        <item>@string/Cetinka_sljub</item>
+        <item>@string/Debit_sljub</item>
+        <item>@string/Graševina_sljub</item>
+        <item>@string/Grk_sljub</item>
+        <item>@string/Jarbola_sljub</item>
+        <item>@string/Žlahtina_sljub</item>
+    </string-array>
+
+
+    <string-array name="RegijaB">
+        <item>@drawable/bogdanusa1 </item>
+        <item>@drawable/cetinka1 </item>
+        <item>@drawable/debit1 </item>
+        <item>@drawable/grasevina1 </item>
+        <item>@drawable/grk1 </item>
+        <item>@drawable/jarbola1</item>
+        <item>@drawable/zlahtina1 </item>
+    </string-array>
+
+
+    //Informacije o Bijelim vinima
+    <string name="Bogdanuša_info">Vino Bogdanuša dobiveno je od istoimene bijele sorte vina te je ime dobilo spajanjem riječi Bogom dana.Zbog svoje dokazane kakvoće, pilo se i na bečkom dvoru</string>
+    <string name="Cetinka_info">Kvalitetno bijelo vino koje se proizvodi od stare autohtone istoimene sorte grožđa koje ima najviše u Korčulanskom vinogorju.</string>
+    <string name="Debit_info">Debit je kasna sorta bijelog grožđa. Uglavnom se uzgaja u sjevernoj i srednjoj Dalmaciji te unutrašnjosti hrvatske. Bobice su srednje veličin zlatno žute boje a grozdovi srednje veličine ili veliki.</string>
+    <string name="Graševina_info">Graševina, bijela sorta grožđa i istoimenog vina. Pretpostavlja se da je porijeklom iz srednje Europe, ali se toliko udomaćila kod nas da je mnogi smatraju autohtonom sortom.U Hrvatskoj je to jedna od najpopularnijih bijelih sorti.</string>
+    <string name="Grk_info">Grk je autohtona hrvatska sorta grožđa za proizvodnju istoimenog bijelog vina. Uzgaja se pretežito i gotovo isključivo u središnjem polju mjesta Lumbarde na otoku Korčuli na površini od oko 40 hektara. Tlo za uzgoj grka pjeskovitog je karaktera te se samu lozu grka kao jednospolnu sortu redovito sadi u kombinaciji sa sortom plavcem malim radi oprašivanja. </string>
+    <string name="Jarbola_info">Jarbola je autohtona hrvatska sorta vinove loze, koja je skoro izumrla. DNK analiza je pokazala da je ova sorta jedinstvena i prava je sreća što je prepoznata u starim vinogradima na obroncima Ćićarije. Iz pronađenih dvadeset čokota napravljen je sadni materijal, te bi se trebala uskoro rasprostaniti po cijeloj Istri i Hrvatskoj.</string>
+    <string name="Žlahtina_info">Vrbnička žlahtina kvalitetno je suho bijelo vino koje se proizvodi od autohtone sorte, žlahtina bijela.Ova sorta je specifična po tome što uspijeva jedino u krčkom vinogorju, odnosno Vrbničkom polju.</string>
+
+    //Svojstva o Bijelim Vinima
+    <string name="Bogdanuša_svojstva">Vino je žuto–zelenkaste boje, lijepo izražene sortne arome, punog i iznenađujuće sviježeg okusa i niskog alkohola (11.5 %)</string>
+    <string name="Cetinka_svojstva"> Vino ima nježnu zlatnožutu boju, ugodno je i pitko s nenaglašenom sortnom aromom. To je suho vino s 11,5 do 12,5 vol. % alkohola.</string>
+    <string name="Debit_svojstva">Debit je uglavnom suho, svježe vino svjetlije žute boje, lagano kiselkaste i pune arome. U prošlosti se proizvodio stajanje na komini, te ja tada bio jake boje tzv. žutine. Najčešće ima 11 do 13% alkohola.</string>
+    <string name="Graševina_svojstva">Vino graševine je najčešće slamnatožute boje, izraženog mirisa, suho, srednjeg sadržaja alkohola i ekstrakta, ugodno gorkasto i već kao mlado vino razvija sortni miris i aromu istaknute svježine.</string>
+    <string name="Grk_svojstva">vino koje je po boji ipak odraz kombinacije svijetlih nijansi žutozelene i zlatne boje, prepoznatljivo je po svom aromatičnom dobro izbalansiranom okusu, suhom karakteru i alkoholu koji ne prelazi 14%. </string>
+    <string name="Jarbola_svojstva">Vino jake aromatičnosti i pojačane kiseline</string>
+    <string name="Žlahtina_svojstva">Žlahtina je vino svijetložute do slamnatožute boje, nježne arome i finog karakterističnog okusa. Svježina, kakvu mu može dati samo oštrija klima, karakteristika je sjevernog podneblja.vrlo ljupkog i živahnog okusa koje sadrži 11 % alkohola.</string>
+
+    //Sljubljivanje Bijelih vina
+    <string name="Bogdanuša_sljub">Poslužuje se na temperaturi od 10-12°C  uz različita predjela, specijalitete od plemenite ribe i bijelog mesa</string>
+    <string name="Cetinka_sljub">Poslužuje se na temperaturi od 8-10°C  uz različita predjela, specijalitete od ribe i bijelog mesa</string>
+    <string name="Debit_sljub">Poslužuje se na temperaturi od 10-12°C  uz različita predjela, specijalitete od ribe i bijelog mesa</string>
+    <string name="Graševina_sljub">Poslužiti uz predjela, tjestenine, jela od bijelog mesa i bijele ribe, ohlađeno na 8-10°C.</string>
+    <string name="Grk_sljub">Vino takvih karakteristika najbolje se onda servira uz lokalnu gastronomiju: riba, školjke, rižoto, brojna lokalna hladna jela i bez sumnje kvalitetno bijelo meso. Naravno Grk je odličan i kada se pije sam kao aperitiv.</string>
+    <string name="Jarbola_sljub">Poslužiti uz predjela, tjestenine, jela od bijelog mesa i bijele ribe, ohlađeno na 8-10°C.</string>
+    <string name="Žlahtina_sljub">Najbolje prija uz ovčji sir, sve vrste ribe i morskih specijaliteta te jela od bijelog mesa.Pije se rashlađeno na 8 do 12°C.</string>
+
+
+
+
+
+
+    // C R N A     V I N A
+
+
+    <string-array name="InfoC">
+        <item>@string/Crljenak_info</item>
+        <item>@string/Debričić_info</item>
+        <item>@string/Frankovka_info</item>
+        <item>@string/Hrvatica_info</item>
+        <item>@string/Merlot_info</item>
+        <item>@string/Plavac_info</item>
+        <item>@string/Teran_info</item>
+    </string-array>
+
+
+    <string-array name="SvojstvaC">
+        <item>@string/Crljenak_svojstva</item>
+        <item>@string/Debričić_svojstva</item>
+        <item>@string/Frankovka_svojstva</item>
+        <item>@string/Hrvatica_svojstva</item>
+        <item>@string/Merlot_svojstva</item>
+        <item>@string/Plavac_svojstva</item>
+        <item>@string/Teran_svojstva</item>
+    </string-array>
+
+
+    <string-array name="SljubC">
+        <item>@string/Crljenak_sljub</item>
+        <item>@string/Debričić_sljub</item>
+        <item>@string/Frankovka_sljub</item>
+        <item>@string/Hrvatica_sljub</item>
+        <item>@string/Merlot_sljub</item>
+        <item>@string/Plavac_sljub</item>
+        <item>@string/Teran_sljub</item>
+    </string-array>
+
+
+    <string-array name="RegijaC">
+        <item>@drawable/crljenak1 </item>
+        <item>@drawable/dobricic1 </item>
+        <item>@drawable/frankovka1 </item>
+        <item>@drawable/hrvatica1 </item>
+        <item>@drawable/merlot1 </item>
+        <item>@drawable/plavac1 </item>
+        <item>@drawable/teran1 </item>
+    </string-array>
+
+
+    //Informacije o crnim vinima
+    <string name="Crljenak_info">Crljenak je stara autohtona hrvatska sorta vinove loze. Ova sorta je pred izumiranjem.Važnost ove sorte je u tome što je dokazano da od nje potiču talijanski primitivo, američki zinfandel i plavac mali. Američki zinfandel je genetski identičan crljenku, a plavac mali je nastao od crljenka i dobričića.Od svih ovih sorti se pravi jako, crno i suho vino.</string>
+    <string name="Debričić_info">Dobričić stara, izvorna dalmatinska sorta. Poznat je po vrlo tamnom rubinskom crvenom bojom, a vjerojatno je genetski predak plavca maloga. On se uzgaja uglavnom na otoku, a proizvodnja je pala toliko da mu gotovo prijeti izumiranje. Razlog za izumiranja je peranospora s kojom se uzgajivači moraju boriti.</string>
+    <string name="Frankovka_info"> Frankovka jedno od najljekovitijih crnih vina čiji sastojci sprečavaju arteriosklerozu i štite od srčanih oboljenja,te je jedna od vodećih vinskih sorata crnog grožđa u nekim podregijama Kontinentalne Hrvatske</string>
+    <string name="Hrvatica_info">Hrvatica je najvjerojatnije istarski endem, što znači da se vjerojatno nalazi samo i isključivo na području Istre. Od ove sorte se prave dobra rose vina.</string>
+    <string name="Merlot_info">Malo je vinskih sorti crnog grožđa koje se podjednako uspješno uzgajaju u južnim i u sjevernim vinorodnim područjima.</string>
+    <string name="Plavac_info">Najznačajnija i najštićenija hrvatska vinska sorta. Potomak je Zinfandela i još jedne stare hrvatske autohtone sorte Dobričić.Plavac je bio oduvijek piće i hrana običnoga težaka i ribara. </string>
+    <string name="Teran_info">Smatra se da je autohtona sorta Istre i bližeg kraškog područja. Ranije je u Istri bila glavna sorta u svim vinogradima. Ima više biotipova koji se razlikuju po veličini i obliku grozda i bobice, zbijenosti, boji peteljčica, i vremenu dozrijevanja i kvaliteti. </string>
+
+
+    //Svojstva crnih vina
+    <string name="Crljenak_svojstva">Obično daje jaka i puna, intenzivno obojena vina. Za razliku od nekih drugih crnih sorti, njegova su vina mekana i pitka, s izraženom sortnom aromom, koja varira od diskretnih cvjetnih pa do snažno razvijenih voćnih mirisa i paprenih nota</string>
+    <string name="Debričić_svojstva">Okus dobričića je pun, trpak i opor. Posjeduje vrlo tamnu boju i gust je te ima od 12 do 13,5% alkohola.</string>
+    <string name="Frankovka_svojstva">Vino je duboke rubinski crvene boje, srednje gustoće. Njegov složeni miris karakterizira crno bobičasto voće te višnja i šljiva, a u pozadini se osjete i začinski mirisi papra.Alkohol : 15.0 %vol</string>
+    <string name="Hrvatica_svojstva">Okus je cvjetan uz okus borovnica, te zna ostaviti lagano gorkasti okus nakon ispijanja.</string>
+    <string name="Merlot_svojstva">Vina sorte Merlot bogata su alkoholom (obično oko 12,5% vol. ) i ukupnim kiselinama (oko 6,5 g/l), rubincrvene su boje, ugodne arome i bouquetta što potsjeća na šumske maline. Dugotrajan bogat okus uz ravnomjernu svježinu i meke, zrele tanine daje vinu dodatnu dimenziju i finu glatku teksturu.</string>
+    <string name="Plavac_svojstva">Tipični plavci su izrazito južnjačka vina, više ili manje trpkasta gorkasta okusa, obično suhi, a vrlo rijetko i s malim ostatkom neprovrela šećera. Boja im je ljubičastocrvena i plavkasta (pa im otuda možda potječe i ime), a sortna aroma nenaglašena, diskretna i ugodna</string>
+    <string name="Teran_svojstva">Teran ima karakterističnu rubinsko crvenu boju s ljubičastim tonovima prilikom rotiranja vina u čaši. Aroma je tipično voćna. Prepoznatljiva je po bobičastom voću uz dominaciju maline i papra.</string>
+
+
+    //Sljubljivanje crnih vina
+    <string name="Crljenak_sljub">Zbog malo izraženijih kiselina preporuča se uz svinjetinu i servira pri temperaturi od 18ºC.</string>
+    <string name="Debričić_sljub">Vino ide uz crveno meso zbog tanina i ugodnih vinskih kiselina</string>
+    <string name="Frankovka_sljub">Vino je najbolje poslužiti na temperaturi 18 – 20°C uz crvena mesa, zrele sireve te kulen</string>
+    <string name="Hrvatica_sljub">Vino ide uz crveno meso zbog tanina i ugodnih vinskih kiselina</string>
+    <string name="Merlot_sljub">Odličan je uz crveno meso sa tartufima, sa pečenjima, istarskim pršutom, sirevima srednje strukture.</string>
+    <string name="Plavac_sljub">Plavac se poslužuje ohlađeno na 18 °C, uz morske specijalitete, plemenitu ribu na žaru i rakove, te uz tamna pečena mesa i divljač.</string>
+    <string name="Teran_sljub">Služimo ga s jelima na bazi mesa i divljači te s hladnim predjelima mesnog podrijetla kao što je istarski pršut i sir star do 2 godine. Poslužuje se i pije na temperaturi od 18 do 20°C.</string>
+
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#D50040</color>
+    <color name="colorPrimaryDark">#D50040</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="brown1">#FFEBCD</color>
+    <color name="brownBar">#DEB887</color>
+    <color name="textW">#000</color>
+    <color name="textB">#fff</color>
+    <color name="homenav">#26D50040</color>
+
+</resources>
