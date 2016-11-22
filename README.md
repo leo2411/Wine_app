@@ -8,7 +8,7 @@ My first android application about the majore types of wine in Croatia.
 _______________________________________________________________________
 Screenshots
 
-<img src="C:\Users\Leo\Downloads\S61122-191942.jpg">
- <img src="C:\Users\Leo\Downloads\S61122-192014.jpg">
-  <img src="C:\Users\Leo\Downloads\S61122-192046.jpg">
- <img src="C:\Users\Leo\Downloads\S61122-192110.jpg">
+  <img src="https://github.com/leo2411/Wine_app/blob/master/1.jpg" width="350"/>
+  <img src="https://github.com/leo2411/Wine_app/blob/master/3.jpg" width="350"/>
+  <img src="https://github.com/leo2411/Wine_app/blob/master/2.jpg" width="350"/>
+  <img src="https://github.com/leo2411/Wine_app/blob/master/4.jpg" width="350"/>
